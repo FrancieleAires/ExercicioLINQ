@@ -1,0 +1,14 @@
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.exe
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.deps.json
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\refint\ExercicioFixacao.dll
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\faire\OneDrive\Área de Trabalho\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ref\ExercicioFixacao.dll
